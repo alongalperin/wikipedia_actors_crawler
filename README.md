@@ -17,4 +17,4 @@ Co actors details
 ![alt text](https://github.com/alongalperin/wikipedia_actors_crawler/blob/master/images/coactorslist.PNG "Info about other co-actors")
 
 Joins histogram 
-![alt text](https://github.com/alongalperin/wikipedia_actors_crawler/blob/master/images/Joactorslist.PNG "Join historgam")
+![alt text](https://github.com/alongalperin/wikipedia_actors_crawler/blob/master/images/joins.PNG "Join historgam")
