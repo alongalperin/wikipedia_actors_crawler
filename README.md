@@ -1,5 +1,5 @@
 # Wikipedia Actors Crawler
-Scrap Wikipedia to get information on actors
+Scrap Wikipedia to get information on movie actors and actresses
 
 This is a Jupyter Notebook file
 The program uses the dependencies:
